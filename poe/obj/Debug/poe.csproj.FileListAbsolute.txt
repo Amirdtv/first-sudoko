@@ -1,0 +1,8 @@
+C:\Users\AMIR\OneDrive\Desktop\poe\poe\bin\Debug\poe.exe.config
+C:\Users\AMIR\OneDrive\Desktop\poe\poe\bin\Debug\poe.exe
+C:\Users\AMIR\OneDrive\Desktop\poe\poe\bin\Debug\poe.pdb
+C:\Users\AMIR\OneDrive\Desktop\poe\poe\obj\Debug\poe.csproj.AssemblyReference.cache
+C:\Users\AMIR\OneDrive\Desktop\poe\poe\obj\Debug\poe.csproj.SuggestedBindingRedirects.cache
+C:\Users\AMIR\OneDrive\Desktop\poe\poe\obj\Debug\poe.csproj.CoreCompileInputs.cache
+C:\Users\AMIR\OneDrive\Desktop\poe\poe\obj\Debug\poe.exe
+C:\Users\AMIR\OneDrive\Desktop\poe\poe\obj\Debug\poe.pdb
